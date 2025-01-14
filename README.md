@@ -1,4 +1,4 @@
-# Circul.IFC
+# IFC.Circul
 
 ## About
 The project was done within the scope of a master's degree.
