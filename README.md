@@ -18,6 +18,7 @@ This project was developed as part of a master's thesis research at the Technica
 - Git
 - Anaconda Navigator
 - PyCharm Community Edition
+- [Gephi](https://gephi.org/)
 
 ### Required Packages
 - IfcOpenShell
