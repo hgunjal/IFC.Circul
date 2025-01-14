@@ -1,0 +1,658 @@
+{
+    "3UEb2iq7D2tOgbX6Mufs$X": {
+        "Space Name": "001",
+        "Space Long Name": "Besprechungsraum I",
+        "Space Storey": {
+            "Storey Name": "Keller",
+            "Storey Elevation": -3.0
+        }
+    },
+    "2xcLNHPon6VO6wB_n0EQLF": {
+        "Space Name": "002",
+        "Space Long Name": "Besprechungsraum II",
+        "Space Storey": {
+            "Storey Name": "Keller",
+            "Storey Elevation": -3.0
+        }
+    },
+    "2Hh$tXimL1_Aogi9jn1cZ4": {
+        "Space Name": "003",
+        "Space Long Name": "Technikraum I",
+        "Space Storey": {
+            "Storey Name": "Keller",
+            "Storey Elevation": -3.0
+        }
+    },
+    "2sVpKMTdb3u8IUv50wOLpo": {
+        "Space Name": "004",
+        "Space Long Name": "Technikraum II",
+        "Space Storey": {
+            "Storey Name": "Keller",
+            "Storey Elevation": -3.0
+        }
+    },
+    "0V74RtuUH1zQt_CcawQbBc": {
+        "Space Name": "005",
+        "Space Long Name": "Technikraum III",
+        "Space Storey": {
+            "Storey Name": "Keller",
+            "Storey Elevation": -3.0
+        }
+    },
+    "0dXE$xLxz8MwbtYoTqJPiO": {
+        "Space Name": "006",
+        "Space Long Name": "Seminarraum",
+        "Space Storey": {
+            "Storey Name": "Keller",
+            "Storey Elevation": -3.0
+        }
+    },
+    "2G3Zgh3YLFBxViczryC8tv": {
+        "Space Name": "007",
+        "Space Long Name": "Technikraum IV",
+        "Space Storey": {
+            "Storey Name": "Keller",
+            "Storey Elevation": -3.0
+        }
+    },
+    "1pG7ErnqL79fYOSoJhY$mD": {
+        "Space Name": "008",
+        "Space Long Name": "WC Herren",
+        "Space Storey": {
+            "Storey Name": "Keller",
+            "Storey Elevation": -3.0
+        }
+    },
+    "2NO$Il8fr1n8x3zsU1IoYc": {
+        "Space Name": "010",
+        "Space Long Name": "Labor K1",
+        "Space Storey": {
+            "Storey Name": "Keller",
+            "Storey Elevation": -3.0
+        }
+    },
+    "3vTaz$m4D7Mw20Cj4ZCMEW": {
+        "Space Name": "011",
+        "Space Long Name": "Labor K2",
+        "Space Storey": {
+            "Storey Name": "Keller",
+            "Storey Elevation": -3.0
+        }
+    },
+    "29dtO28k16G9baf14UO37j": {
+        "Space Name": "012",
+        "Space Long Name": "Labor K3",
+        "Space Storey": {
+            "Storey Name": "Keller",
+            "Storey Elevation": -3.0
+        }
+    },
+    "3YOWN6kp53UhVDk7gccfjD": {
+        "Space Name": "013",
+        "Space Long Name": "Labor K4",
+        "Space Storey": {
+            "Storey Name": "Keller",
+            "Storey Elevation": -3.0
+        }
+    },
+    "25NDKbpWH5r94ho13fJMeb": {
+        "Space Name": "014",
+        "Space Long Name": "Labor K5",
+        "Space Storey": {
+            "Storey Name": "Keller",
+            "Storey Elevation": -3.0
+        }
+    },
+    "3cjnMny5DF0g1J6kKZWO4Y": {
+        "Space Name": "015",
+        "Space Long Name": "Flur Keller West",
+        "Space Storey": {
+            "Storey Name": "Keller",
+            "Storey Elevation": -3.0
+        }
+    },
+    "2Zmi8kumn3P9N9wBPT48lG": {
+        "Space Name": "017",
+        "Space Long Name": "Flur Keller Ost",
+        "Space Storey": {
+            "Storey Name": "Keller",
+            "Storey Elevation": -3.0
+        }
+    },
+    "3Gz7u_d1P7IA35Wmtg48Rc": {
+        "Space Name": "016",
+        "Space Long Name": "Flur Keller Treppe",
+        "Space Storey": {
+            "Storey Name": "Keller",
+            "Storey Elevation": -3.0
+        }
+    },
+    "1nsRm1QQb1xwWpzzFR7Ax3": {
+        "Space Name": "009",
+        "Space Long Name": "WC Damen",
+        "Space Storey": {
+            "Storey Name": "Keller",
+            "Storey Elevation": -3.0
+        }
+    },
+    "3EN96kdYDB2OOGjNLp8e86": {
+        "Space Name": "101",
+        "Space Long Name": "Buero Meier",
+        "Space Storey": {
+            "Storey Name": "Erdgeschoss",
+            "Storey Elevation": 0.0
+        }
+    },
+    "1_Evy7T$DCiwLgTMLHCRoe": {
+        "Space Name": "102",
+        "Space Long Name": "Labor I",
+        "Space Storey": {
+            "Storey Name": "Erdgeschoss",
+            "Storey Elevation": 0.0
+        }
+    },
+    "3eQ_MQ5er5UeRXq4xxAoKl": {
+        "Space Name": "103",
+        "Space Long Name": "Labor II",
+        "Space Storey": {
+            "Storey Name": "Erdgeschoss",
+            "Storey Elevation": 0.0
+        }
+    },
+    "3KaloR8018sAKZVwuYVbSu": {
+        "Space Name": "116",
+        "Space Long Name": "Flur EG West",
+        "Space Storey": {
+            "Storey Name": "Erdgeschoss",
+            "Storey Elevation": 0.0
+        }
+    },
+    "03hhkFXKT4RPFNu5rDrZPL": {
+        "Space Name": "115",
+        "Space Long Name": "Buero Obermeier",
+        "Space Storey": {
+            "Storey Name": "Erdgeschoss",
+            "Storey Elevation": 0.0
+        }
+    },
+    "1oKaKV7Wz8IOJ10cA1PGWP": {
+        "Space Name": "113",
+        "Space Long Name": "WC Damen",
+        "Space Storey": {
+            "Storey Name": "Erdgeschoss",
+            "Storey Elevation": 0.0
+        }
+    },
+    "3j5r$vfHT3JfqUfpdRoXnP": {
+        "Space Name": "112",
+        "Space Long Name": "WC Herren",
+        "Space Storey": {
+            "Storey Name": "Erdgeschoss",
+            "Storey Elevation": 0.0
+        }
+    },
+    "3t8qjHTuTAigDlC1x7D16b": {
+        "Space Name": "111",
+        "Space Long Name": "Buero Maier",
+        "Space Storey": {
+            "Storey Name": "Erdgeschoss",
+            "Storey Elevation": 0.0
+        }
+    },
+    "1DxredyET5bf_85HZe8$FO": {
+        "Space Name": "105",
+        "Space Long Name": "Buero Studenten I",
+        "Space Storey": {
+            "Storey Name": "Erdgeschoss",
+            "Storey Elevation": 0.0
+        }
+    },
+    "2ED0MLfrf17BXIsuJYCs7R": {
+        "Space Name": "110",
+        "Space Long Name": "Buero Meyer",
+        "Space Storey": {
+            "Storey Name": "Erdgeschoss",
+            "Storey Elevation": 0.0
+        }
+    },
+    "1loQAAB191MA5YmsaMJHkI": {
+        "Space Name": "109",
+        "Space Long Name": "Buero Mayer",
+        "Space Storey": {
+            "Storey Name": "Erdgeschoss",
+            "Storey Elevation": 0.0
+        }
+    },
+    "3Xu6SpY4vC89stuKlMWE2n": {
+        "Space Name": "108",
+        "Space Long Name": "Buero Meyr",
+        "Space Storey": {
+            "Storey Name": "Erdgeschoss",
+            "Storey Elevation": 0.0
+        }
+    },
+    "3yAAZZ86j388XApaG$h1X6": {
+        "Space Name": "107",
+        "Space Long Name": "Buero Mayr",
+        "Space Storey": {
+            "Storey Name": "Erdgeschoss",
+            "Storey Elevation": 0.0
+        }
+    },
+    "3$FatfHY1Cg9apAMwbKPN8": {
+        "Space Name": "106",
+        "Space Long Name": "Buero Studenten II",
+        "Space Storey": {
+            "Storey Name": "Erdgeschoss",
+            "Storey Elevation": 0.0
+        }
+    },
+    "0_TtqXcOrDbeTXyb5q0Uxb": {
+        "Space Name": "118",
+        "Space Long Name": "Flur EG Ost",
+        "Space Storey": {
+            "Storey Name": "Erdgeschoss",
+            "Storey Elevation": 0.0
+        }
+    },
+    "25QUQJ9jHAFengkpc9N7GR": {
+        "Space Name": "104",
+        "Space Long Name": "Buero Hausmeister",
+        "Space Storey": {
+            "Storey Name": "Erdgeschoss",
+            "Storey Elevation": 0.0
+        }
+    },
+    "0jhU4VZ6XCxee3pjfx5VMh": {
+        "Space Name": "114",
+        "Space Long Name": "Buero Studenten III",
+        "Space Storey": {
+            "Storey Name": "Erdgeschoss",
+            "Storey Elevation": 0.0
+        }
+    },
+    "1RP4kkhTDFJuLugWfrM_1s": {
+        "Space Name": "117",
+        "Space Long Name": "Flur EG Eingang",
+        "Space Storey": {
+            "Storey Name": "Erdgeschoss",
+            "Storey Elevation": 0.0
+        }
+    },
+    "25CC32yK130ALlKsnej9JW": {
+        "Space Name": "220",
+        "Space Long Name": "Flur 1.OG West",
+        "Space Storey": {
+            "Storey Name": "1. Obergeschoss",
+            "Storey Elevation": 3.0
+        }
+    },
+    "37pP75EaP1axQNg3rWc_WT": {
+        "Space Name": "214",
+        "Space Long Name": "WC Damen",
+        "Space Storey": {
+            "Storey Name": "1. Obergeschoss",
+            "Storey Elevation": 3.0
+        }
+    },
+    "0f6kjO4cnBngLgZgtaoBTE": {
+        "Space Name": "213",
+        "Space Long Name": "WC Herren",
+        "Space Storey": {
+            "Storey Name": "1. Obergeschoss",
+            "Storey Elevation": 3.0
+        }
+    },
+    "3XJSZHVdLFTQTPYNfhA6a2": {
+        "Space Name": "222",
+        "Space Long Name": "Flur 1.OG Ost",
+        "Space Storey": {
+            "Storey Name": "1. Obergeschoss",
+            "Storey Elevation": 3.0
+        }
+    },
+    "1AW8GAtUnEYB9XPWOUYKK5": {
+        "Space Name": "211",
+        "Space Long Name": "Buero Schmidt",
+        "Space Storey": {
+            "Storey Name": "1. Obergeschoss",
+            "Storey Elevation": 3.0
+        }
+    },
+    "0uPiF9LkPAqeB8f54Uy3_C": {
+        "Space Name": "221",
+        "Space Long Name": "Flur 1.OG Treppe",
+        "Space Storey": {
+            "Storey Name": "1. Obergeschoss",
+            "Storey Elevation": 3.0
+        }
+    },
+    "24vVAUYDH2SetutQQsZBMv": {
+        "Space Name": "207",
+        "Space Long Name": "Buero IL",
+        "Space Storey": {
+            "Storey Name": "1. Obergeschoss",
+            "Storey Elevation": 3.0
+        }
+    },
+    "2goaA6RR92B9xducYbaQVU": {
+        "Space Name": "206",
+        "Space Long Name": "Buero IL Sekr.",
+        "Space Storey": {
+            "Storey Name": "1. Obergeschoss",
+            "Storey Elevation": 3.0
+        }
+    },
+    "0i4GPkF$j1$P1_N4yoKfHm": {
+        "Space Name": "210",
+        "Space Long Name": "Buero Schmid",
+        "Space Storey": {
+            "Storey Name": "1. Obergeschoss",
+            "Storey Elevation": 3.0
+        }
+    },
+    "2Yd3UbuHLF0P7Q5pq$wqrF": {
+        "Space Name": "219",
+        "Space Long Name": "Buero Mueller I",
+        "Space Storey": {
+            "Storey Name": "1. Obergeschoss",
+            "Storey Elevation": 3.0
+        }
+    },
+    "1GtYUXG753_h6i4vKAf46v": {
+        "Space Name": "218",
+        "Space Long Name": "Buero Mueller II",
+        "Space Storey": {
+            "Storey Name": "1. Obergeschoss",
+            "Storey Elevation": 3.0
+        }
+    },
+    "0VWZeARNT8IAUcPL5OoYiA": {
+        "Space Name": "217",
+        "Space Long Name": "Buero MuellerIII",
+        "Space Storey": {
+            "Storey Name": "1. Obergeschoss",
+            "Storey Elevation": 3.0
+        }
+    },
+    "3kV3mGMIX3BvUw5dL_lJVg": {
+        "Space Name": "215",
+        "Space Long Name": "Buero Mueller V",
+        "Space Storey": {
+            "Storey Name": "1. Obergeschoss",
+            "Storey Elevation": 3.0
+        }
+    },
+    "1yZQvqj15Ab8eMXDuz85Dy": {
+        "Space Name": "204",
+        "Space Long Name": "Buero Oberschmitt",
+        "Space Storey": {
+            "Storey Name": "1. Obergeschoss",
+            "Storey Elevation": 3.0
+        }
+    },
+    "0uC7OD3$5F7v$zL3aaoEig": {
+        "Space Name": "201",
+        "Space Long Name": "Buero Obermueller",
+        "Space Storey": {
+            "Storey Name": "1. Obergeschoss",
+            "Storey Elevation": 3.0
+        }
+    },
+    "2E2TaOnqD0chpbuH8tXCpW": {
+        "Space Name": "208",
+        "Space Long Name": "Buero Schmied II",
+        "Space Storey": {
+            "Storey Name": "1. Obergeschoss",
+            "Storey Elevation": 3.0
+        }
+    },
+    "3shuyF_Yb7yu2P$QLB2s8G": {
+        "Space Name": "202",
+        "Space Long Name": "Buero Mueller VI + VII",
+        "Space Storey": {
+            "Storey Name": "1. Obergeschoss",
+            "Storey Elevation": 3.0
+        }
+    },
+    "0UiHARbFzF1RT4g_GKem_B": {
+        "Space Name": "203",
+        "Space Long Name": "Buero Mueller VIII + IX",
+        "Space Storey": {
+            "Storey Name": "1. Obergeschoss",
+            "Storey Elevation": 3.0
+        }
+    },
+    "1LVv$xQpj6k8KE6pcNlDDU": {
+        "Space Name": "209",
+        "Space Long Name": "Buero Schmied I",
+        "Space Storey": {
+            "Storey Name": "1. Obergeschoss",
+            "Storey Elevation": 3.0
+        }
+    },
+    "1a3ixYyUn0QO4HWUYKN$4p": {
+        "Space Name": "212",
+        "Space Long Name": "Buero Schmitt I",
+        "Space Storey": {
+            "Storey Name": "1. Obergeschoss",
+            "Storey Elevation": 3.0
+        }
+    },
+    "3iSzpa9d93jhTDB7hG0QBW": {
+        "Space Name": "205",
+        "Space Long Name": "Buero Schmitt II",
+        "Space Storey": {
+            "Storey Name": "1. Obergeschoss",
+            "Storey Elevation": 3.0
+        }
+    },
+    "0K6ICBa1zCjvUnsy8qMIRC": {
+        "Space Name": "216",
+        "Space Long Name": "Buero Mueller IV",
+        "Space Storey": {
+            "Storey Name": "1. Obergeschoss",
+            "Storey Elevation": 3.0
+        }
+    },
+    "3M3dydUxH2hR7Uvg9QNhS$": {
+        "Space Name": "313",
+        "Space Long Name": "WC Herren",
+        "Space Storey": {
+            "Storey Name": "2. Obergeschoss",
+            "Storey Elevation": 6.0
+        }
+    },
+    "2lebmw3XD9w9PIIn4HKbwh": {
+        "Space Name": "302",
+        "Space Long Name": "Buero",
+        "Space Storey": {
+            "Storey Name": "2. Obergeschoss",
+            "Storey Elevation": 6.0
+        }
+    },
+    "09m2tgyfr9UfikvrKFMkeD": {
+        "Space Name": "303",
+        "Space Long Name": "Buero",
+        "Space Storey": {
+            "Storey Name": "2. Obergeschoss",
+            "Storey Elevation": 6.0
+        }
+    },
+    "0dc6ovxJLDww6sjSpu_cfN": {
+        "Space Name": "304",
+        "Space Long Name": "Buero",
+        "Space Storey": {
+            "Storey Name": "2. Obergeschoss",
+            "Storey Elevation": 6.0
+        }
+    },
+    "0U5AcnRYX7aw$OIZXqMUaR": {
+        "Space Name": "305",
+        "Space Long Name": "Buero",
+        "Space Storey": {
+            "Storey Name": "2. Obergeschoss",
+            "Storey Elevation": 6.0
+        }
+    },
+    "1jJ7opRcX6uevup8Hnq0$2": {
+        "Space Name": "318",
+        "Space Long Name": "Buero",
+        "Space Storey": {
+            "Storey Name": "2. Obergeschoss",
+            "Storey Elevation": 6.0
+        }
+    },
+    "30oDtenHrAwuYDgWTayiN$": {
+        "Space Name": "317",
+        "Space Long Name": "Buero",
+        "Space Storey": {
+            "Storey Name": "2. Obergeschoss",
+            "Storey Elevation": 6.0
+        }
+    },
+    "3$PC9MkEH1Ex24UD3VHyzP": {
+        "Space Name": "316",
+        "Space Long Name": "Buero",
+        "Space Storey": {
+            "Storey Name": "2. Obergeschoss",
+            "Storey Elevation": 6.0
+        }
+    },
+    "0Veunyhgf7QxfJXezc1Ydu": {
+        "Space Name": "315",
+        "Space Long Name": "Buero",
+        "Space Storey": {
+            "Storey Name": "2. Obergeschoss",
+            "Storey Elevation": 6.0
+        }
+    },
+    "1vWhxAiTL1RR3r4R3eC2Vv": {
+        "Space Name": "306",
+        "Space Long Name": "Buero",
+        "Space Storey": {
+            "Storey Name": "2. Obergeschoss",
+            "Storey Elevation": 6.0
+        }
+    },
+    "3uvYP4OyH5ufyPIMbZD86h": {
+        "Space Name": "307",
+        "Space Long Name": "Buero",
+        "Space Storey": {
+            "Storey Name": "2. Obergeschoss",
+            "Storey Elevation": 6.0
+        }
+    },
+    "0oB0YIgnPE49CsBpGIdxOR": {
+        "Space Name": "312",
+        "Space Long Name": "Buero",
+        "Space Storey": {
+            "Storey Name": "2. Obergeschoss",
+            "Storey Elevation": 6.0
+        }
+    },
+    "3jurQKaejCqgtlRMQvYO$h": {
+        "Space Name": "311",
+        "Space Long Name": "Buero",
+        "Space Storey": {
+            "Storey Name": "2. Obergeschoss",
+            "Storey Elevation": 6.0
+        }
+    },
+    "1I4mvNGj58VPS4IqdvGDOQ": {
+        "Space Name": "310",
+        "Space Long Name": "Buero",
+        "Space Storey": {
+            "Storey Name": "2. Obergeschoss",
+            "Storey Elevation": 6.0
+        }
+    },
+    "3BlfjPTqH1qeG63Yox0pCX": {
+        "Space Name": "309",
+        "Space Long Name": "Buero",
+        "Space Storey": {
+            "Storey Name": "2. Obergeschoss",
+            "Storey Elevation": 6.0
+        }
+    },
+    "1qHIiTcLf7zwz3pTXujZ3t": {
+        "Space Name": "308",
+        "Space Long Name": "Buero",
+        "Space Storey": {
+            "Storey Name": "2. Obergeschoss",
+            "Storey Elevation": 6.0
+        }
+    },
+    "0jh6L39QvEQu8mVKX3j43f": {
+        "Space Name": "314",
+        "Space Long Name": "WC Damen",
+        "Space Storey": {
+            "Storey Name": "2. Obergeschoss",
+            "Storey Elevation": 6.0
+        }
+    },
+    "3zaEFaiGrF1ftyFPQrOe_i": {
+        "Space Name": "301",
+        "Space Long Name": "Buero",
+        "Space Storey": {
+            "Storey Name": "2. Obergeschoss",
+            "Storey Elevation": 6.0
+        }
+    },
+    "3i9iiZlcT5eQkuRPP$TrLS": {
+        "Space Name": "319",
+        "Space Long Name": "Buero",
+        "Space Storey": {
+            "Storey Name": "2. Obergeschoss",
+            "Storey Elevation": 6.0
+        }
+    },
+    "3gYFdGsxTBa9PFlMvRAaiF": {
+        "Space Name": "320",
+        "Space Long Name": "Flur 2.OG West",
+        "Space Storey": {
+            "Storey Name": "2. Obergeschoss",
+            "Storey Elevation": 6.0
+        }
+    },
+    "2mSYEw1YLDvhMYvUr3eREJ": {
+        "Space Name": "321",
+        "Space Long Name": "Flur 2.OG Treppe",
+        "Space Storey": {
+            "Storey Name": "2. Obergeschoss",
+            "Storey Elevation": 6.0
+        }
+    },
+    "3CXBDjcSTES8AedjLKSfJe": {
+        "Space Name": "322",
+        "Space Long Name": "Flur 2.OG Ost",
+        "Space Storey": {
+            "Storey Name": "2. Obergeschoss",
+            "Storey Elevation": 6.0
+        }
+    },
+    "3txvJd9V1BPhyU$48F$mnF": {
+        "Space Name": "403",
+        "Space Long Name": "Dachboden-2",
+        "Space Storey": {
+            "Storey Name": "Dachgeschoss",
+            "Storey Elevation": 9.0
+        }
+    },
+    "0jbV$RErb7o9P7rp7ALEd$": {
+        "Space Name": "402",
+        "Space Long Name": "Dachboden-1",
+        "Space Storey": {
+            "Storey Name": "Dachgeschoss",
+            "Storey Elevation": 9.0
+        }
+    },
+    "2_rG4oliv3CxmStpGPieup": {
+        "Space Name": "401",
+        "Space Long Name": "Flur 3.OG Treppe",
+        "Space Storey": {
+            "Storey Name": "Dachgeschoss",
+            "Storey Elevation": 9.0
+        }
+    }
+}

@@ -1,0 +1,527 @@
+{
+    "0BTBFw6f90Nfh9rP1dlXrb": {
+        "Space Name": "A203",
+        "Space Long Name": "Bedroom 2",
+        "Space Storey": {
+            "StoreyName": "Level 2",
+            "StoreyElevation": 3.100000000000378
+        },
+        "Directly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXri"
+            }
+        ],
+        "Indirectly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXre"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3A"
+            }
+        ],
+        "Stair Accessible Spaces": []
+    },
+    "0BTBFw6f90Nfh9rP1dl_39": {
+        "Space Name": "B203",
+        "Space Long Name": "Bedroom 2",
+        "Space Storey": {
+            "StoreyName": "Level 2",
+            "StoreyElevation": 3.100000000000378
+        },
+        "Directly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3G"
+            }
+        ],
+        "Indirectly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXrc"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3C"
+            }
+        ],
+        "Stair Accessible Spaces": []
+    },
+    "0BTBFw6f90Nfh9rP1dlXri": {
+        "Space Name": "A201",
+        "Space Long Name": "Hallway",
+        "Space Storey": {
+            "StoreyName": "Level 2",
+            "StoreyElevation": 3.100000000000378
+        },
+        "Directly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXrc"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXre"
+            },
+            {
+                "Space GlobalId": "2gRXFgjRn2HPE$YoDLX3FV"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXrb"
+            }
+        ],
+        "Indirectly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3C"
+            }
+        ],
+        "Stair Accessible Spaces": []
+    },
+    "0BTBFw6f90Nfh9rP1dl_3Q": {
+        "Space Name": "B101",
+        "Space Long Name": "Foyer",
+        "Space Storey": {
+            "StoreyName": "Level 1",
+            "StoreyElevation": 0.0
+        },
+        "Directly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3P"
+            }
+        ],
+        "Indirectly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3S"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_CZ"
+            },
+            {
+                "Space GlobalId": "10mjSDZJj9gPS2PrQaxa4o"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXr$"
+            }
+        ],
+        "Stair Accessible Spaces": [
+            {
+                "Space GlobalId": "10mjSDZJj9gPS2PrQaxa4o"
+            }
+        ]
+    },
+    "0BTBFw6f90Nfh9rP1dlXrr": {
+        "Space Name": "A101",
+        "Space Long Name": "Foyer",
+        "Space Storey": {
+            "StoreyName": "Level 1",
+            "StoreyElevation": 0.0
+        },
+        "Directly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXru"
+            }
+        ],
+        "Indirectly Accessible Spaces": [
+            {
+                "Space GlobalId": "10mjSDZJj9gPS2PrQaxa3z"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3S"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXr2"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXr$"
+            }
+        ],
+        "Stair Accessible Spaces": [
+            {
+                "Space GlobalId": "10mjSDZJj9gPS2PrQaxa3z"
+            }
+        ]
+    },
+    "0BTBFw6f90Nfh9rP1dl_3G": {
+        "Space Name": "B201",
+        "Space Long Name": "Hallway",
+        "Space Storey": {
+            "StoreyName": "Level 2",
+            "StoreyElevation": 3.100000000000378
+        },
+        "Directly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3C"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_39"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3A"
+            }
+        ],
+        "Indirectly Accessible Spaces": [
+            {
+                "Space GlobalId": "2gRXFgjRn2HPE$YoDLX3FC"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXre"
+            }
+        ],
+        "Stair Accessible Spaces": []
+    },
+    "0BTBFw6f90Nfh9rP1dlXrc": {
+        "Space Name": "A202",
+        "Space Long Name": "Bedroom 1",
+        "Space Storey": {
+            "StoreyName": "Level 2",
+            "StoreyElevation": 3.100000000000378
+        },
+        "Directly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXri"
+            }
+        ],
+        "Indirectly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_39"
+            },
+            {
+                "Space GlobalId": "2gRXFgjRn2HPE$YoDLX3FV"
+            }
+        ],
+        "Stair Accessible Spaces": []
+    },
+    "0BTBFw6f90Nfh9rP1dl_3A": {
+        "Space Name": "B202",
+        "Space Long Name": "Bedroom 1",
+        "Space Storey": {
+            "StoreyName": "Level 2",
+            "StoreyElevation": 3.100000000000378
+        },
+        "Directly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3G"
+            }
+        ],
+        "Indirectly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXrb"
+            },
+            {
+                "Space GlobalId": "2gRXFgjRn2HPE$YoDLX3FC"
+            }
+        ],
+        "Stair Accessible Spaces": []
+    },
+    "0BTBFw6f90Nfh9rP1dl_CZ": {
+        "Space Name": "B102",
+        "Space Long Name": "Living Room",
+        "Space Storey": {
+            "StoreyName": "Level 1",
+            "StoreyElevation": 0.0
+        },
+        "Directly Accessible Spaces": [],
+        "Indirectly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3Q"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3S"
+            }
+        ],
+        "Stair Accessible Spaces": []
+    },
+    "0BTBFw6f90Nfh9rP1dlXre": {
+        "Space Name": "A204",
+        "Space Long Name": "Bathroom 2",
+        "Space Storey": {
+            "StoreyName": "Level 2",
+            "StoreyElevation": 3.100000000000378
+        },
+        "Directly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXri"
+            },
+            {
+                "Space GlobalId": "2gRXFgjRn2HPE$YoDLX3FV"
+            }
+        ],
+        "Indirectly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3G"
+            },
+            {
+                "Space GlobalId": "2gRXFgjRn2HPE$YoDLX3FC"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3C"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXrb"
+            }
+        ],
+        "Stair Accessible Spaces": []
+    },
+    "0BTBFw6f90Nfh9rP1dlXr2": {
+        "Space Name": "A102",
+        "Space Long Name": "Living Room",
+        "Space Storey": {
+            "StoreyName": "Level 1",
+            "StoreyElevation": 0.0
+        },
+        "Directly Accessible Spaces": [],
+        "Indirectly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXrr"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXr$"
+            }
+        ],
+        "Stair Accessible Spaces": []
+    },
+    "0BTBFw6f90Nfh9rP1dl_3P": {
+        "Space Name": "B104",
+        "Space Long Name": "Bathroom 1",
+        "Space Storey": {
+            "StoreyName": "Level 1",
+            "StoreyElevation": 0.0
+        },
+        "Directly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3Q"
+            }
+        ],
+        "Indirectly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXru"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3S"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXr$"
+            }
+        ],
+        "Stair Accessible Spaces": []
+    },
+    "0BTBFw6f90Nfh9rP1dl_3S": {
+        "Space Name": "B103",
+        "Space Long Name": "Kitchen",
+        "Space Storey": {
+            "StoreyName": "Level 1",
+            "StoreyElevation": 0.0
+        },
+        "Directly Accessible Spaces": [
+            {
+                "Space GlobalId": "10mjSDZJj9gPS2PrQaxa3z"
+            }
+        ],
+        "Indirectly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_CZ"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3Q"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3P"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXru"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXrr"
+            }
+        ],
+        "Stair Accessible Spaces": []
+    },
+    "0BTBFw6f90Nfh9rP1dlXr$": {
+        "Space Name": "A103",
+        "Space Long Name": "Kitchen",
+        "Space Storey": {
+            "StoreyName": "Level 1",
+            "StoreyElevation": 0.0
+        },
+        "Directly Accessible Spaces": [
+            {
+                "Space GlobalId": "10mjSDZJj9gPS2PrQaxa4o"
+            }
+        ],
+        "Indirectly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXrr"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3Q"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3P"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXru"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXr2"
+            }
+        ],
+        "Stair Accessible Spaces": []
+    },
+    "0BTBFw6f90Nfh9rP1dl_3C": {
+        "Space Name": "B204",
+        "Space Long Name": "Bathroom 2",
+        "Space Storey": {
+            "StoreyName": "Level 2",
+            "StoreyElevation": 3.100000000000378
+        },
+        "Directly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3G"
+            },
+            {
+                "Space GlobalId": "2gRXFgjRn2HPE$YoDLX3FC"
+            }
+        ],
+        "Indirectly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXre"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXri"
+            },
+            {
+                "Space GlobalId": "2gRXFgjRn2HPE$YoDLX3FV"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_39"
+            }
+        ],
+        "Stair Accessible Spaces": []
+    },
+    "0BTBFw6f90Nfh9rP1dlXru": {
+        "Space Name": "A104",
+        "Space Long Name": "Bathroom 1",
+        "Space Storey": {
+            "StoreyName": "Level 1",
+            "StoreyElevation": 0.0
+        },
+        "Directly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXrr"
+            }
+        ],
+        "Indirectly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3S"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3P"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXr$"
+            }
+        ],
+        "Stair Accessible Spaces": []
+    },
+    "2gRXFgjRn2HPE$YoDLX3FV": {
+        "Space Name": "A205",
+        "Space Long Name": "Utility",
+        "Space Storey": {
+            "StoreyName": "Level 2",
+            "StoreyElevation": 3.100000000000378
+        },
+        "Directly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXri"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXre"
+            }
+        ],
+        "Indirectly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXrc"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3C"
+            }
+        ],
+        "Stair Accessible Spaces": []
+    },
+    "10mjSDZJj9gPS2PrQaxa3z": {
+        "Space Name": "A105",
+        "Space Long Name": "Stair",
+        "Space Storey": {
+            "StoreyName": "Level 1",
+            "StoreyElevation": 0.0
+        },
+        "Directly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3S"
+            }
+        ],
+        "Indirectly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXrr"
+            }
+        ],
+        "Stair Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXrr"
+            }
+        ]
+    },
+    "10mjSDZJj9gPS2PrQaxa4o": {
+        "Space Name": "B105",
+        "Space Long Name": "Room",
+        "Space Storey": {
+            "StoreyName": "Level 1",
+            "StoreyElevation": 0.0
+        },
+        "Directly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXr$"
+            }
+        ],
+        "Indirectly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3Q"
+            }
+        ],
+        "Stair Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3Q"
+            }
+        ]
+    },
+    "2gRXFgjRn2HPE$YoDLX3FC": {
+        "Space Name": "B205",
+        "Space Long Name": "Utility",
+        "Space Storey": {
+            "StoreyName": "Level 2",
+            "StoreyElevation": 3.100000000000378
+        },
+        "Directly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3C"
+            }
+        ],
+        "Indirectly Accessible Spaces": [
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dlXre"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3G"
+            },
+            {
+                "Space GlobalId": "0BTBFw6f90Nfh9rP1dl_3A"
+            }
+        ],
+        "Stair Accessible Spaces": []
+    },
+    "0pNy6pOyf7JPmXRLgxs3sW": {
+        "Space Name": "R301",
+        "Space Long Name": "Roof",
+        "Space Storey": {
+            "StoreyName": "Roof",
+            "StoreyElevation": 6.00000000000039
+        },
+        "Directly Accessible Spaces": [],
+        "Indirectly Accessible Spaces": [],
+        "Stair Accessible Spaces": []
+    }
+}

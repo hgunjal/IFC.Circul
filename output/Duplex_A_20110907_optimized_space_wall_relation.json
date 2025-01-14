@@ -1,0 +1,396 @@
+{
+    "0BTBFw6f90Nfh9rP1dlXrb": [
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):144518",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FL8v"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Plumbing (152mm Stud):144783",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FLCm"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):144586",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FL9r"
+        },
+        {
+            "Element Name": "Basic Wall:Exterior - Brick on Block:143534",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FLOH"
+        },
+        {
+            "Element Name": "Basic Wall:Exterior - Brick on Block:143478",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FLR9"
+        },
+        {
+            "Element Name": "Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:143239",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FKau"
+        }
+    ],
+    "0BTBFw6f90Nfh9rP1dl_39": [
+        {
+            "Element Name": "Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:143239",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FKau"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):143856",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FLTF"
+        },
+        {
+            "Element Name": "Basic Wall:Exterior - Brick on Block:143410",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FLQD"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):143921",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FLIE"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Plumbing (152mm Stud):144138",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FLMr"
+        },
+        {
+            "Element Name": "Basic Wall:Exterior - Brick on Block:143590",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FLPP"
+        }
+    ],
+    "0BTBFw6f90Nfh9rP1dlXri": [
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):144518",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FL8v"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):144586",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FL9r"
+        },
+        {
+            "Element Name": "Basic Wall:Exterior - Brick on Block:143478",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FLR9"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):144633",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FL96"
+        }
+    ],
+    "0BTBFw6f90Nfh9rP1dl_3Q": [
+        {
+            "Element Name": "Basic Wall:Exterior - Brick on Block:138310",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FNhv"
+        },
+        {
+            "Element Name": "Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:139347",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FKRi"
+        },
+        {
+            "Element Name": "Basic Wall:Exterior - Brick on Block:138062",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FNtn"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):139143",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FNau"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):138584",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FNld"
+        }
+    ],
+    "0BTBFw6f90Nfh9rP1dlXrr": [
+        {
+            "Element Name": "Basic Wall:Exterior - Brick on Block:138237",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FNr2"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):139939",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FKGS"
+        },
+        {
+            "Element Name": "Basic Wall:Exterior - Brick on Block:138157",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FNqI"
+        },
+        {
+            "Element Name": "Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:139234",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FNbT"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):139682",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FKST"
+        }
+    ],
+    "0BTBFw6f90Nfh9rP1dl_3G": [
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):143921",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FLIE"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):143960",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FLJd"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):143856",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FLTF"
+        },
+        {
+            "Element Name": "Basic Wall:Exterior - Brick on Block:143590",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FLPP"
+        }
+    ],
+    "0BTBFw6f90Nfh9rP1dlXrc": [
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):144586",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FL9r"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):144633",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FL96"
+        },
+        {
+            "Element Name": "Basic Wall:Exterior - Brick on Block:143478",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FLR9"
+        },
+        {
+            "Element Name": "Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:143239",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FKau"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):144684",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FLEJ"
+        },
+        {
+            "Element Name": "Basic Wall:Exterior - Brick on Block:143410",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FLQD"
+        }
+    ],
+    "0BTBFw6f90Nfh9rP1dl_3A": [
+        {
+            "Element Name": "Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:143239",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FKau"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):144301",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FLKI"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):143960",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FLJd"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):143921",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FLIE"
+        },
+        {
+            "Element Name": "Basic Wall:Exterior - Brick on Block:143590",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FLPP"
+        },
+        {
+            "Element Name": "Basic Wall:Exterior - Brick on Block:143534",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FLOH"
+        }
+    ],
+    "0BTBFw6f90Nfh9rP1dl_CZ": [
+        {
+            "Element Name": "Basic Wall:Exterior - Brick on Block:138062",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FNtn"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):138584",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FNld"
+        },
+        {
+            "Element Name": "Basic Wall:Exterior - Brick on Block:138157",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FNqI"
+        }
+    ],
+    "0BTBFw6f90Nfh9rP1dlXre": [
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):144586",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FL9r"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Furring (152 mm Stud):193247",
+            "Element GlobalID": "0dxE1Sy6nDqfpDb5vIMNiA"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):203998",
+            "Element GlobalID": "1aj$VJZFn2TxepZUBcKpZw"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Plumbing (152mm Stud):144783",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FLCm"
+        }
+    ],
+    "0BTBFw6f90Nfh9rP1dlXr2": [
+        {
+            "Element Name": "Basic Wall:Exterior - Brick on Block:138237",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FNr2"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):139939",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FKGS"
+        },
+        {
+            "Element Name": "Basic Wall:Exterior - Brick on Block:138310",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FNhv"
+        }
+    ],
+    "0BTBFw6f90Nfh9rP1dl_3P": [
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):139143",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FNau"
+        },
+        {
+            "Element Name": "Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:139347",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FKRi"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):190140",
+            "Element GlobalID": "0iEHWY1$XA8eQeeULq4jpl"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Furring (152 mm Stud):189901",
+            "Element GlobalID": "0iEHWY1$XA8eQeeULq4j_U"
+        }
+    ],
+    "0BTBFw6f90Nfh9rP1dl_3S": [
+        {
+            "Element Name": "Basic Wall:Exterior - Brick on Block:138157",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FNqI"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):139143",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FNau"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):190140",
+            "Element GlobalID": "0iEHWY1$XA8eQeeULq4jpl"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Furring (152 mm Stud):189074",
+            "Element GlobalID": "0iEHWY1$XA8eQeeULq4jZ1"
+        }
+    ],
+    "0BTBFw6f90Nfh9rP1dlXr$": [
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):139783",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FKIu"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):139682",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FKST"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Furring (152 mm Stud):190933",
+            "Element GlobalID": "0iEHWY1$XA8eQeeULq4jE6"
+        },
+        {
+            "Element Name": "Basic Wall:Exterior - Brick on Block:138310",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FNhv"
+        }
+    ],
+    "0BTBFw6f90Nfh9rP1dl_3C": [
+        {
+            "Element Name": "Basic Wall:Interior - Plumbing (152mm Stud):144138",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FLMr"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Furring (152 mm Stud):194166",
+            "Element GlobalID": "0dxE1Sy6nDqfpDb5vIMN_Z"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):203347",
+            "Element GlobalID": "1aj$VJZFn2TxepZUBcKpvt"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):143921",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FLIE"
+        }
+    ],
+    "0BTBFw6f90Nfh9rP1dlXru": [
+        {
+            "Element Name": "Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:139234",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FNbT"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Furring (152 mm Stud):190774",
+            "Element GlobalID": "0iEHWY1$XA8eQeeULq4jDb"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):139783",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FKIu"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):139682",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FKST"
+        }
+    ],
+    "2gRXFgjRn2HPE$YoDLX3FV": [
+        {
+            "Element Name": "Basic Wall:Interior - Furring (152 mm Stud):193247",
+            "Element GlobalID": "0dxE1Sy6nDqfpDb5vIMNiA"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):203998",
+            "Element GlobalID": "1aj$VJZFn2TxepZUBcKpZw"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):144684",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FLEJ"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):144586",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FL9r"
+        }
+    ],
+    "10mjSDZJj9gPS2PrQaxa3z": [
+        {
+            "Element Name": "Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:139234",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FNbT"
+        },
+        {
+            "Element Name": "Basic Wall:Exterior - Brick on Block:138157",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FNqI"
+        }
+    ],
+    "10mjSDZJj9gPS2PrQaxa4o": [
+        {
+            "Element Name": "Basic Wall:Exterior - Brick on Block:138310",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FNhv"
+        },
+        {
+            "Element Name": "Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:139347",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FKRi"
+        }
+    ],
+    "2gRXFgjRn2HPE$YoDLX3FC": [
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):143921",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FLIE"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):144301",
+            "Element GlobalID": "2O2Fr$t4X7Zf8NOew3FLKI"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Furring (152 mm Stud):194166",
+            "Element GlobalID": "0dxE1Sy6nDqfpDb5vIMN_Z"
+        },
+        {
+            "Element Name": "Basic Wall:Interior - Partition (92mm Stud):203347",
+            "Element GlobalID": "1aj$VJZFn2TxepZUBcKpvt"
+        }
+    ],
+    "0pNy6pOyf7JPmXRLgxs3sW": [
+        {
+            "Element Name": "Basic Wall:Exterior - Brick on Block:185014",
+            "Element GlobalID": "0jf0rYHfX3RAB3bSIRjmpw"
+        },
+        {
+            "Element Name": "Basic Wall:Exterior - Brick on Block:185064",
+            "Element GlobalID": "0jf0rYHfX3RAB3bSIRjmoa"
+        },
+        {
+            "Element Name": "Basic Wall:Exterior - Brick on Block:185101",
+            "Element GlobalID": "0jf0rYHfX3RAB3bSIRjmr1"
+        },
+        {
+            "Element Name": "Basic Wall:Exterior - Brick on Block:184944",
+            "Element GlobalID": "0jf0rYHfX3RAB3bSIRjmmy"
+        }
+    ]
+}

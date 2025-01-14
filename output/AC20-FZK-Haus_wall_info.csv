@@ -1,0 +1,14 @@
+Name,GUID,Length,Width,Start_Point,Mid_Point,End_Point,Building_Storey
+Wand-Int-ERDG-4,2XPyKWY018sA1ygZKgQPtU,4.29,0.24,"[7.41, 4.25, 0.0]","[9.555, 4.25, 0.0]","[11.7, 4.25, 0.0]",Erdgeschoss
+Wand-Int-ERDG-2,3PfS__Y_DBAfq5naM6zD2Z,5.69,0.24,"[7.41, 10.0, 0.0]","[7.41, 7.154999999999999, 0.0]","[7.41, 4.31, 0.0]",Erdgeschoss
+Wand-Int-ERDG-1,2ptk1k7qn8_Qk22vjh$0DE,3.71,0.24,"[3.8, 10.0, 0.0]","[3.8, 8.145, 0.0]","[3.8, 6.29, 0.0]",Erdgeschoss
+Wand-Int-ERDG-3,3jjW3rL656ex34Gws22EfM,7.11,0.24,"[0.0, 5.75, 0.0]","[3.555, 5.75, 0.0]","[7.11, 5.75, 0.0]",Erdgeschoss
+Wand-Int-ERDG-5,1$wmdwWPjDYuku_ghVkynE,3.5,0.24,"[0.0, 4.25, 0.0]","[1.75, 4.25, 0.0]","[3.5, 4.25, 0.0]",Erdgeschoss
+Wand-Ext-ERDG-1,3rPX_Juz59peXXY6wDJl18,10.0,0.3,"[0.0, 0.0, 0.0]","[0.0, 5.0, 0.0]","[0.0, 10.0, 0.0]",Erdgeschoss
+Wand-Ext-ERDG-4,16DNNqzfP2thtfaOflvsKA,12.0,0.3,"[12.0, 0.0, 0.0]","[6.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",Erdgeschoss
+Wand-Ext-ERDG-3,25fsbPyk15VvuXI$yNKenK,10.0,0.3,"[12.0, 10.0, 0.0]","[12.0, 5.0, 0.0]","[12.0, 0.0, 0.0]",Erdgeschoss
+Wand-Ext-ERDG-2,1bzfVsJqn8De5PukCrqylz,12.0,0.3,"[0.0, 10.0, 0.0]","[6.0, 10.0, 0.0]","[12.0, 10.0, 0.0]",Erdgeschoss
+Wand-Ext-OG-1,0knNIAVBPBFvBy_m5QVHsU,10.0,0.3,"[0.0, 0.0, 2.7]","[0.0, 5.0, 2.7]","[0.0, 10.0, 2.7]",Dachgeschoss
+Wand-Ext-OG-2,25OWQvmXj5BPgyergP43tY,12.0,0.3,"[0.0, 10.0, 2.7]","[6.0, 10.0, 2.7]","[12.0, 10.0, 2.7]",Dachgeschoss
+Wand-Ext-OG-3,3VCarUKgH1buLo22Ozxe6J,10.0,0.3,"[12.0, 10.0, 2.7]","[12.0, 5.0, 2.7]","[12.0, 0.0, 2.7]",Dachgeschoss
+Wand-Ext-OG-4,3Ttjr$59XEWfWN1WUHjelZ,12.0,0.3,"[12.0, 0.0, 2.7]","[6.0, 0.0, 2.7]","[0.0, 0.0, 2.7]",Dachgeschoss

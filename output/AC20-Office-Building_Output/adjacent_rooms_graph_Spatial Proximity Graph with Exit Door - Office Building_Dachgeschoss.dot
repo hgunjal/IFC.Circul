@@ -1,0 +1,7 @@
+strict graph  {
+"3txvJd9V1BPhyU$48F$mnF" [color="#fddbd0", fontname=Helvetica, fontsize="10.0", height="1.0", label="Dachboden-2", width="1.0"];
+"2_rG4oliv3CxmStpGPieup" [color="#fddbd0", fontname=Helvetica, fontsize="35.0", height="4.0", label="Flur 3.OG Treppe", width="4.0"];
+"0jbV$RErb7o9P7rp7ALEd$" [color="#fddbd0", fontname=Helvetica, fontsize="10.0", height="1.0", label="Dachboden-1", width="1.0"];
+"3txvJd9V1BPhyU$48F$mnF" -- "2_rG4oliv3CxmStpGPieup"  [penwidth=5, style=solid];
+"2_rG4oliv3CxmStpGPieup" -- "0jbV$RErb7o9P7rp7ALEd$"  [penwidth=5, style=solid];
+}

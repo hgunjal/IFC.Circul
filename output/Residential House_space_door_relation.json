@@ -1,0 +1,50 @@
+{
+    "347jFE2yX7IhCEIALmupEH": [
+        {
+            "Element Name": "Innentuer-1",
+            "Element GlobalID": "1Oms875aH3Wg$9l65H2ZGw"
+        }
+    ],
+    "0e_hbkIQ5DMQlIJ$2V3j_m": [
+        {
+            "Element Name": "Innentuer-2",
+            "Element GlobalID": "0pGAjlJMP3ifYPATVF5xAR"
+        }
+    ],
+    "2RSCzLOBz4FAK$_wE8VckM": [
+        {
+            "Element Name": "Innentuer-3",
+            "Element GlobalID": "2qiPPF3FrF8OIqfrKiSUqm"
+        }
+    ],
+    "0Lt8gR_E9ESeGH5uY_g9e9": [
+        {
+            "Element Name": "Terrassentuer",
+            "Element GlobalID": "1M$gxUrX1Fiwe3P64ww7U5"
+        }
+    ],
+    "3$f2p7VyLB7eox67SA_zKE": [
+        {
+            "Element Name": "Innentuer-3",
+            "Element GlobalID": "2qiPPF3FrF8OIqfrKiSUqm"
+        },
+        {
+            "Element Name": "Innentuer-2",
+            "Element GlobalID": "0pGAjlJMP3ifYPATVF5xAR"
+        },
+        {
+            "Element Name": "Innentuer-1",
+            "Element GlobalID": "1Oms875aH3Wg$9l65H2ZGw"
+        },
+        {
+            "Element Name": "Haustuer",
+            "Element GlobalID": "2jTRqchjf7oB0yhQ6462T0"
+        }
+    ],
+    "17JZcMFrf5tOftUTidA0d3": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "2dQFggKBb1fOc1CqZDIDlx": [
+        "No IfcRelSpaceBoundary relationships."
+    ]
+}

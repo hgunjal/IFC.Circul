@@ -1,0 +1,44 @@
+{
+    "3Gz7u_d1P7IA35Wmtg48Rc": [
+        {
+            "Element Name": "Treppe-KG",
+            "Element GlobalID": "0o_5lbt6jCpRs3V3FoLyNr"
+        }
+    ],
+    "1RP4kkhTDFJuLugWfrM_1s": [
+        {
+            "Element Name": "Treppe-KG",
+            "Element GlobalID": "0o_5lbt6jCpRs3V3FoLyNr"
+        },
+        {
+            "Element Name": "Treppe-EG",
+            "Element GlobalID": "1Kl5_Wzb98HOSGZ8eaBX2f"
+        }
+    ],
+    "0uPiF9LkPAqeB8f54Uy3_C": [
+        {
+            "Element Name": "Treppe-EG",
+            "Element GlobalID": "1Kl5_Wzb98HOSGZ8eaBX2f"
+        },
+        {
+            "Element Name": "Treppe-1-OG",
+            "Element GlobalID": "3Zb0LaH4z9HPmaVjAzVngL"
+        }
+    ],
+    "2mSYEw1YLDvhMYvUr3eREJ": [
+        {
+            "Element Name": "Treppe-1-OG",
+            "Element GlobalID": "3Zb0LaH4z9HPmaVjAzVngL"
+        },
+        {
+            "Element Name": "Treppe-2-OG",
+            "Element GlobalID": "0xQhptVzf44Qzhs9jMEILa"
+        }
+    ],
+    "2_rG4oliv3CxmStpGPieup": [
+        {
+            "Element Name": "Treppe-2-OG",
+            "Element GlobalID": "0xQhptVzf44Qzhs9jMEILa"
+        }
+    ]
+}

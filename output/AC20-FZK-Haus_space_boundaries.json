@@ -1,0 +1,58 @@
+{
+    "4": [
+        {
+            "Related_Building_Element_Name": "Innentuer-1",
+            "Related_Building_Element_GlobalID": "1Oms875aH3Wg$9l65H2ZGw",
+            "Related_Building_Element_IFC_Type": "IfcDoor"
+        }
+    ],
+    "3": [
+        {
+            "Related_Building_Element_Name": "Innentuer-2",
+            "Related_Building_Element_GlobalID": "0pGAjlJMP3ifYPATVF5xAR",
+            "Related_Building_Element_IFC_Type": "IfcDoor"
+        }
+    ],
+    "2": [
+        {
+            "Related_Building_Element_Name": "Innentuer-3",
+            "Related_Building_Element_GlobalID": "2qiPPF3FrF8OIqfrKiSUqm",
+            "Related_Building_Element_IFC_Type": "IfcDoor"
+        }
+    ],
+    "5": [
+        {
+            "Related_Building_Element_Name": "Terrassentuer",
+            "Related_Building_Element_GlobalID": "1M$gxUrX1Fiwe3P64ww7U5",
+            "Related_Building_Element_IFC_Type": "IfcDoor"
+        }
+    ],
+    "1": [
+        {
+            "Related_Building_Element_Name": "Innentuer-3",
+            "Related_Building_Element_GlobalID": "2qiPPF3FrF8OIqfrKiSUqm",
+            "Related_Building_Element_IFC_Type": "IfcDoor"
+        },
+        {
+            "Related_Building_Element_Name": "Innentuer-2",
+            "Related_Building_Element_GlobalID": "0pGAjlJMP3ifYPATVF5xAR",
+            "Related_Building_Element_IFC_Type": "IfcDoor"
+        },
+        {
+            "Related_Building_Element_Name": "Innentuer-1",
+            "Related_Building_Element_GlobalID": "1Oms875aH3Wg$9l65H2ZGw",
+            "Related_Building_Element_IFC_Type": "IfcDoor"
+        },
+        {
+            "Related_Building_Element_Name": "Haustuer",
+            "Related_Building_Element_GlobalID": "2jTRqchjf7oB0yhQ6462T0",
+            "Related_Building_Element_IFC_Type": "IfcDoor"
+        }
+    ],
+    "6": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "7": [
+        "No IfcRelSpaceBoundary relationships."
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "5": [
+        {
+            "Related_Building_Element_Name": "Wendeltreppe",
+            "Related_Building_Element_GlobalID": "38a9vdh9bF5Qg28GWyHhlr",
+            "Related_Building_Element_IFC_Type": "IfcStair"
+        }
+    ],
+    "7": [
+        {
+            "Related_Building_Element_Name": "Wendeltreppe",
+            "Related_Building_Element_GlobalID": "38a9vdh9bF5Qg28GWyHhlr",
+            "Related_Building_Element_IFC_Type": "IfcStair"
+        }
+    ]
+}

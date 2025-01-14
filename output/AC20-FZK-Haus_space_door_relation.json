@@ -1,0 +1,50 @@
+{
+    "4": [
+        {
+            "Element Name": "Innentuer-1",
+            "Element GlobalID": "1Oms875aH3Wg$9l65H2ZGw"
+        }
+    ],
+    "3": [
+        {
+            "Element Name": "Innentuer-2",
+            "Element GlobalID": "0pGAjlJMP3ifYPATVF5xAR"
+        }
+    ],
+    "2": [
+        {
+            "Element Name": "Innentuer-3",
+            "Element GlobalID": "2qiPPF3FrF8OIqfrKiSUqm"
+        }
+    ],
+    "5": [
+        {
+            "Element Name": "Terrassentuer",
+            "Element GlobalID": "1M$gxUrX1Fiwe3P64ww7U5"
+        }
+    ],
+    "1": [
+        {
+            "Element Name": "Innentuer-3",
+            "Element GlobalID": "2qiPPF3FrF8OIqfrKiSUqm"
+        },
+        {
+            "Element Name": "Innentuer-2",
+            "Element GlobalID": "0pGAjlJMP3ifYPATVF5xAR"
+        },
+        {
+            "Element Name": "Innentuer-1",
+            "Element GlobalID": "1Oms875aH3Wg$9l65H2ZGw"
+        },
+        {
+            "Element Name": "Haustuer",
+            "Element GlobalID": "2jTRqchjf7oB0yhQ6462T0"
+        }
+    ],
+    "6": [
+        "No IfcRelSpaceBoundary relationships."
+    ],
+    "7": [
+        "No IfcRelSpaceBoundary relationships."
+    ]
+}

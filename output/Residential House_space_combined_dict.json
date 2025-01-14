@@ -1,0 +1,151 @@
+{
+    "347jFE2yX7IhCEIALmupEH": {
+        "Space Name": "4",
+        "Space Long Name": "Schlafzimmer",
+        "Space Storey": {
+            "StoreyName": "Erdgeschoss",
+            "StoreyElevation": 0.0
+        },
+        "Directly Accessible Spaces": [
+            {
+                "Space GlobalId": "3$f2p7VyLB7eox67SA_zKE"
+            }
+        ],
+        "Indirectly Accessible Spaces": [
+            {
+                "Space GlobalId": "0e_hbkIQ5DMQlIJ$2V3j_m"
+            },
+            {
+                "Space GlobalId": "0Lt8gR_E9ESeGH5uY_g9e9"
+            }
+        ],
+        "Stair Accessible Spaces": []
+    },
+    "0e_hbkIQ5DMQlIJ$2V3j_m": {
+        "Space Name": "3",
+        "Space Long Name": "Bad",
+        "Space Storey": {
+            "StoreyName": "Erdgeschoss",
+            "StoreyElevation": 0.0
+        },
+        "Directly Accessible Spaces": [
+            {
+                "Space GlobalId": "3$f2p7VyLB7eox67SA_zKE"
+            }
+        ],
+        "Indirectly Accessible Spaces": [
+            {
+                "Space GlobalId": "347jFE2yX7IhCEIALmupEH"
+            },
+            {
+                "Space GlobalId": "2RSCzLOBz4FAK$_wE8VckM"
+            }
+        ],
+        "Stair Accessible Spaces": []
+    },
+    "2RSCzLOBz4FAK$_wE8VckM": {
+        "Space Name": "2",
+        "Space Long Name": "Buero",
+        "Space Storey": {
+            "StoreyName": "Erdgeschoss",
+            "StoreyElevation": 0.0
+        },
+        "Directly Accessible Spaces": [
+            {
+                "Space GlobalId": "3$f2p7VyLB7eox67SA_zKE"
+            }
+        ],
+        "Indirectly Accessible Spaces": [
+            {
+                "Space GlobalId": "0e_hbkIQ5DMQlIJ$2V3j_m"
+            }
+        ],
+        "Stair Accessible Spaces": []
+    },
+    "0Lt8gR_E9ESeGH5uY_g9e9": {
+        "Space Name": "5",
+        "Space Long Name": "Wohnen",
+        "Space Storey": {
+            "StoreyName": "Erdgeschoss",
+            "StoreyElevation": 0.0
+        },
+        "Directly Accessible Spaces": [
+            {
+                "Space GlobalId": "3$f2p7VyLB7eox67SA_zKE"
+            },
+            {
+                "Space GlobalId": "17JZcMFrf5tOftUTidA0d3"
+            }
+        ],
+        "Indirectly Accessible Spaces": [
+            {
+                "Space GlobalId": "347jFE2yX7IhCEIALmupEH"
+            }
+        ],
+        "Stair Accessible Spaces": [
+            {
+                "Space GlobalId": "2dQFggKBb1fOc1CqZDIDlx"
+            }
+        ]
+    },
+    "3$f2p7VyLB7eox67SA_zKE": {
+        "Space Name": "1",
+        "Space Long Name": "Flur",
+        "Space Storey": {
+            "StoreyName": "Erdgeschoss",
+            "StoreyElevation": 0.0
+        },
+        "Directly Accessible Spaces": [
+            {
+                "Space GlobalId": "347jFE2yX7IhCEIALmupEH"
+            },
+            {
+                "Space GlobalId": "2RSCzLOBz4FAK$_wE8VckM"
+            },
+            {
+                "Space GlobalId": "0e_hbkIQ5DMQlIJ$2V3j_m"
+            },
+            {
+                "Space GlobalId": "17JZcMFrf5tOftUTidA0d3"
+            },
+            {
+                "Space GlobalId": "0Lt8gR_E9ESeGH5uY_g9e9"
+            }
+        ],
+        "Indirectly Accessible Spaces": [],
+        "Stair Accessible Spaces": []
+    },
+    "17JZcMFrf5tOftUTidA0d3": {
+        "Space Name": "6",
+        "Space Long Name": "K\u00fcche",
+        "Space Storey": {
+            "StoreyName": "Erdgeschoss",
+            "StoreyElevation": 0.0
+        },
+        "Directly Accessible Spaces": [
+            {
+                "Space GlobalId": "0Lt8gR_E9ESeGH5uY_g9e9"
+            },
+            {
+                "Space GlobalId": "3$f2p7VyLB7eox67SA_zKE"
+            }
+        ],
+        "Indirectly Accessible Spaces": [],
+        "Stair Accessible Spaces": []
+    },
+    "2dQFggKBb1fOc1CqZDIDlx": {
+        "Space Name": "7",
+        "Space Long Name": "Galerie",
+        "Space Storey": {
+            "StoreyName": "Dachgeschoss",
+            "StoreyElevation": 2.7
+        },
+        "Directly Accessible Spaces": [],
+        "Indirectly Accessible Spaces": [],
+        "Stair Accessible Spaces": [
+            {
+                "Space GlobalId": "0Lt8gR_E9ESeGH5uY_g9e9"
+            }
+        ]
+    }
+}

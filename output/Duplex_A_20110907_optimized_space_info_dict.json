@@ -1,0 +1,170 @@
+{
+    "0BTBFw6f90Nfh9rP1dlXrb": {
+        "Space Name": "A203",
+        "Space Long Name": "Bedroom 2",
+        "Space Storey": {
+            "StoreyName": "Level 2",
+            "StoreyElevation": 3.100000000000378
+        }
+    },
+    "0BTBFw6f90Nfh9rP1dl_39": {
+        "Space Name": "B203",
+        "Space Long Name": "Bedroom 2",
+        "Space Storey": {
+            "StoreyName": "Level 2",
+            "StoreyElevation": 3.100000000000378
+        }
+    },
+    "0BTBFw6f90Nfh9rP1dlXri": {
+        "Space Name": "A201",
+        "Space Long Name": "Hallway",
+        "Space Storey": {
+            "StoreyName": "Level 2",
+            "StoreyElevation": 3.100000000000378
+        }
+    },
+    "0BTBFw6f90Nfh9rP1dl_3Q": {
+        "Space Name": "B101",
+        "Space Long Name": "Foyer",
+        "Space Storey": {
+            "StoreyName": "Level 1",
+            "StoreyElevation": 0.0
+        }
+    },
+    "0BTBFw6f90Nfh9rP1dlXrr": {
+        "Space Name": "A101",
+        "Space Long Name": "Foyer",
+        "Space Storey": {
+            "StoreyName": "Level 1",
+            "StoreyElevation": 0.0
+        }
+    },
+    "0BTBFw6f90Nfh9rP1dl_3G": {
+        "Space Name": "B201",
+        "Space Long Name": "Hallway",
+        "Space Storey": {
+            "StoreyName": "Level 2",
+            "StoreyElevation": 3.100000000000378
+        }
+    },
+    "0BTBFw6f90Nfh9rP1dlXrc": {
+        "Space Name": "A202",
+        "Space Long Name": "Bedroom 1",
+        "Space Storey": {
+            "StoreyName": "Level 2",
+            "StoreyElevation": 3.100000000000378
+        }
+    },
+    "0BTBFw6f90Nfh9rP1dl_3A": {
+        "Space Name": "B202",
+        "Space Long Name": "Bedroom 1",
+        "Space Storey": {
+            "StoreyName": "Level 2",
+            "StoreyElevation": 3.100000000000378
+        }
+    },
+    "0BTBFw6f90Nfh9rP1dl_CZ": {
+        "Space Name": "B102",
+        "Space Long Name": "Living Room",
+        "Space Storey": {
+            "StoreyName": "Level 1",
+            "StoreyElevation": 0.0
+        }
+    },
+    "0BTBFw6f90Nfh9rP1dlXre": {
+        "Space Name": "A204",
+        "Space Long Name": "Bathroom 2",
+        "Space Storey": {
+            "StoreyName": "Level 2",
+            "StoreyElevation": 3.100000000000378
+        }
+    },
+    "0BTBFw6f90Nfh9rP1dlXr2": {
+        "Space Name": "A102",
+        "Space Long Name": "Living Room",
+        "Space Storey": {
+            "StoreyName": "Level 1",
+            "StoreyElevation": 0.0
+        }
+    },
+    "0BTBFw6f90Nfh9rP1dl_3P": {
+        "Space Name": "B104",
+        "Space Long Name": "Bathroom 1",
+        "Space Storey": {
+            "StoreyName": "Level 1",
+            "StoreyElevation": 0.0
+        }
+    },
+    "0BTBFw6f90Nfh9rP1dl_3S": {
+        "Space Name": "B103",
+        "Space Long Name": "Kitchen",
+        "Space Storey": {
+            "StoreyName": "Level 1",
+            "StoreyElevation": 0.0
+        }
+    },
+    "0BTBFw6f90Nfh9rP1dlXr$": {
+        "Space Name": "A103",
+        "Space Long Name": "Kitchen",
+        "Space Storey": {
+            "StoreyName": "Level 1",
+            "StoreyElevation": 0.0
+        }
+    },
+    "0BTBFw6f90Nfh9rP1dl_3C": {
+        "Space Name": "B204",
+        "Space Long Name": "Bathroom 2",
+        "Space Storey": {
+            "StoreyName": "Level 2",
+            "StoreyElevation": 3.100000000000378
+        }
+    },
+    "0BTBFw6f90Nfh9rP1dlXru": {
+        "Space Name": "A104",
+        "Space Long Name": "Bathroom 1",
+        "Space Storey": {
+            "StoreyName": "Level 1",
+            "StoreyElevation": 0.0
+        }
+    },
+    "2gRXFgjRn2HPE$YoDLX3FV": {
+        "Space Name": "A205",
+        "Space Long Name": "Utility",
+        "Space Storey": {
+            "StoreyName": "Level 2",
+            "StoreyElevation": 3.100000000000378
+        }
+    },
+    "10mjSDZJj9gPS2PrQaxa3z": {
+        "Space Name": "A105",
+        "Space Long Name": "Stair",
+        "Space Storey": {
+            "StoreyName": "Level 1",
+            "StoreyElevation": 0.0
+        }
+    },
+    "10mjSDZJj9gPS2PrQaxa4o": {
+        "Space Name": "B105",
+        "Space Long Name": "Room",
+        "Space Storey": {
+            "StoreyName": "Level 1",
+            "StoreyElevation": 0.0
+        }
+    },
+    "2gRXFgjRn2HPE$YoDLX3FC": {
+        "Space Name": "B205",
+        "Space Long Name": "Utility",
+        "Space Storey": {
+            "StoreyName": "Level 2",
+            "StoreyElevation": 3.100000000000378
+        }
+    },
+    "0pNy6pOyf7JPmXRLgxs3sW": {
+        "Space Name": "R301",
+        "Space Long Name": "Roof",
+        "Space Storey": {
+            "StoreyName": "Roof",
+            "StoreyElevation": 6.00000000000039
+        }
+    }
+}
