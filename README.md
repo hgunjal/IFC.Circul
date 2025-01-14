@@ -1,6 +1,6 @@
 # IFC.Circul 🏗️
 
-A Python package for extracting and analyzing space-level topological relationships from IFC (Industry Foundation Classes) building models.
+A Python package for extracting space-level topological relationships from IFC (Industry Foundation Classes) building models.
 
 ## 📋 Overview
 
