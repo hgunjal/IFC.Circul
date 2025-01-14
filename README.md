@@ -62,9 +62,11 @@ This project was developed as part of a master's thesis research at the Technica
    - Open the generated DOT file using [Gephi](https://gephi.org/)
    - Perform graph analysis and visualization
 
+![Space-level Topological Analysis](https://github.com/user-attachments/assets/5a009e72-d360-4cc2-a91f-03d544f827c7)
+
 ## 📊 Sample Visualization
 
-![Space-level Topological Analysis](https://github.com/user-attachments/assets/5a009e72-d360-4cc2-a91f-03d544f827c7)
+
 
 ## 📝 License
 
