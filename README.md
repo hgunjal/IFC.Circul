@@ -20,7 +20,7 @@ This project was developed as part of a master's thesis research at the Technica
 - PyCharm Community Edition
 
 ### Required Packages
-- ifcOpenShell
+- IfcOpenShell
 - Graphviz
 - Trimesh
 - rtree
@@ -33,7 +33,7 @@ This project was developed as part of a master's thesis research at the Technica
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/hgunjal/IFC.Circul
    ```
 
 2. Create and configure environment:
