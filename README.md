@@ -13,6 +13,4 @@ at the [Chair of Computational Modeling and Simulation](https://www.cee.ed.tum.d
                
 ![Screenshot 2025-01-14 165432](https://github.com/user-attachments/assets/5a009e72-d360-4cc2-a91f-03d544f827c7)
 
-<p>
-    <img src="https://github.com/user-attachments/assets/5a009e72-d360-4cc2-a91f-03d544f827c7" width="800">
-</p>
+
