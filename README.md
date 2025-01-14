@@ -11,3 +11,8 @@ The project was done within the scope of a master's degree.
 
 at the [Chair of Computational Modeling and Simulation](https://www.cee.ed.tum.de/cms/home/), [Technical University of Munich](https://www.tum.de/)
                
+![Screenshot 2025-01-14 165432](https://github.com/user-attachments/assets/5a009e72-d360-4cc2-a91f-03d544f827c7)
+
+<p>
+    <img src="https://github.com/user-attachments/assets/5a009e72-d360-4cc2-a91f-03d544f827c7" width="800">
+</p>
