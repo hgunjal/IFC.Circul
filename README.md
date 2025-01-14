@@ -68,9 +68,5 @@ This project was developed as part of a master's thesis research at the Technica
 
 
 
-## 📝 License
-
-[License information to be added]
-
 ---
 *For questions and support, please open an issue in the GitHub repository.*
