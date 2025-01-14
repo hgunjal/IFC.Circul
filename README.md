@@ -62,11 +62,29 @@ This project was developed as part of a master's thesis research at the Technica
 4. Analyze Results
    - Open the generated DOT file using [Gephi](https://gephi.org/)
    - Perform graph analysis and visualization
+   - `Girvan-Newman Clustering` to perform community detection and `Avg. Path Length` to perform centrality analysis
 
 ![Space-level Topological Analysis](https://github.com/user-attachments/assets/5a009e72-d360-4cc2-a91f-03d544f827c7)
 
 ## 📊 Sample Visualization
 
+### 1. Building Model Visualization
+![3D View of IFC Model](https://github.com/user-attachments/assets/79e6c552-e34b-468f-9140-e642bc4c0937)
+*3D visualization of the IFC building model showing the overall spatial arrangement*
+
+![Floor Plan View](https://github.com/user-attachments/assets/e0d5d04f-35ec-49c2-b571-093b5df5f2cd)
+*Floor plan view of the IFC model displaying the spatial layout and room configurations*
+
+### 2. Topological Analysis
+![Space-level Topological Graph](https://github.com/user-attachments/assets/f4b3173e-877e-4a62-81cb-244547efba58)
+*Space-level topological graph where:*
+- Different node colors represent different building floors
+- Green edges indicate exits
+- Red edges represent stair accessibility
+- Regular edges show horizontal accessibility between spaces
+
+![Centrality Analysis](https://github.com/user-attachments/assets/fa38951b-7dc9-45f4-9e6e-8cb7a971b759)
+*Centrality analysis performed in Gephi, highlighting nodes with highest betweenness centrality on the right side, indicating key circulation points in the building*
 
 
 ---
